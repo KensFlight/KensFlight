@@ -3,7 +3,7 @@
 Arduino, STM32, ESP modülleri ve drone projeleriyle ilgilenen bir elektronik ve yazılım geliştiricisiyim. Bu sayfada, uçuş sistemleri, CNC ve gömülü yazılım üzerine kendi projelerimi paylaşıyorum.
 
  🔧 İlgi Alanlarım:
-- Gömülü sistemler (Arduino, STM32, ESP8266/ESP32)
+- Gömülü sistemler (Arduino, STM32, ESP8266/ESP32, Flight Controller)
 - RC ve drone teknolojileri (SBUS, NRF24, PID, LoRa haberleşme)
 - Sensör uygulamaları (GPS, barometre, gyrometer IMU vs.)
 - Yapay zeka destekli projeler (J.A.R.V.I.S. konsepti) Fikir aşamasında
