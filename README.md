@@ -24,7 +24,8 @@ Arduino, STM32, ESP modülleri ve drone projeleriyle ilgilenen bir elektronik ve
  📺 Yakında: YouTube Kanalım
 Projelerimin tamamını detaylı anlatımlarla YouTube üzerinde paylaşmayı planlıyorum. Devre kurulumları, kod açıklamaları, test uçuşları ve daha fazlası sizlerle olacak. Takipte kalın! 🎥
 
- 🤝 Kaynaklar & Teşekkür
+ 🤝 Kaynaklar
+ 
 Projelerimdeki yazılımlar, Yapay zeka desteğiyle geliştirilmiştir. Kodlar öğrenim ve gelişim amaçlı açık kaynak olarak sunulmaktadır. Her türlü katkıya ve geri bildirime açığım 🙏
 
 📫 İletişim:
