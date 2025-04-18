@@ -26,7 +26,7 @@ Projelerimin tamamını detaylı anlatımlarla YouTube üzerinde paylaşmayı pl
 
  🤝 Kaynaklar
  
-Projelerimdeki yazılımlar, Yapay zeka desteğiyle geliştirilmiştir. Kodlar öğrenim ve gelişim amaçlı açık kaynak olarak sunulmaktadır. Her türlü katkıya ve geri bildirime açığım 🙏
+Projelerimdeki yazılımlar, Yapay zeka desteği ve kendi derlemelerim ile geliştirilmiştir. Kodlar öğrenim ve gelişim amaçlı açık kaynak olarak sunulmaktadır. Her türlü katkıya ve geri bildirime açığım 🙏
 
 📫 İletişim:
 GitHub üzerinden ulaşabilir, veya  kenansert4@gmail.com e-posta bağlantısı ile bana ulaşabilirsiniz.
